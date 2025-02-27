@@ -1,0 +1,135 @@
+*{
+    margin-top: 0;
+    margin-bottom: 0%;
+    
+}
+
+
+.header{
+    background-color: rgb(0, 0, 0);
+    color: orange;
+
+    }
+    .header nav{
+       
+        display: flex;
+        
+        justify-content: flex-start;
+        
+    }
+    .header nav ul{
+        
+        display: flex;
+        gap: 90px;
+        image-rendering: auto;
+        
+    }
+    .goo h1{
+        
+        font-style: italic;
+        font-size: xx-large;
+      
+    }
+    .goo h2{
+        
+        font-size: medium;
+        
+    }
+    .goo div{
+        
+        display: flex;
+        justify-content: space-around;
+        
+    
+    }
+    .goo h2{
+        
+        
+        font-size: larger;
+    }
+    
+
+    .boss{
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #f8f3d9;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .boss1{
+        display: flex;
+        justify-content: space-evenly;
+        background-color: #ebe5c2;
+        font-family: 'Courier New', Courier, monospace;
+    }
+
+    .boss2{
+        display: flex;
+        justify-content: space-evenly;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: #b9b28a;
+    }
+
+    .boss3{
+        display: flex;
+        justify-content: space-evenly;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: #ebe5c2;
+    }
+
+
+    .boss4{
+        display: flex;
+        justify-content:space-evenly;
+        font-family: 'Courier New', Courier, monospace;
+        background-color: #f8f3d9;
+        
+    }
+
+    .logo{
+        display: flex;
+        justify-content: flex-start;
+    }
+
+
+    .intro{
+        background-color: black;
+        margin-bottom: 0%;
+        
+    }
+
+    .vai{
+        background-color: #f8f3d9;
+        padding: 2%;
+    }
+
+    .vai1{
+        background-color: #ebe5c2;
+        padding: 2%;
+    }
+
+    .vai2{
+        background-color: #b9b28a;
+        padding: 2%;
+    }
+
+    .vai3{
+        background-color: #ebe5c2;
+        padding: 2%;
+    }
+
+    .vai4{
+        background-color: #f8f3d9;
+        padding: 2%;
+        
+    }
+
+    .last{
+        background-color: #e8dfb0;
+    }
+
+    .upper{
+        background-color: #f8f3d9;
+        padding-top: 2%;
+        padding-bottom: 2%;
+    }
